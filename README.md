@@ -1,4 +1,4 @@
-# Ski-dashboard
+# KPI-Dashboard
 ## Recommended Structure and Order
 ### 1.	Project Title / Headline
 A concise, descriptive name for the dashboard.
